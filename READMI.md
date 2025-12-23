@@ -16,4 +16,4 @@
 DRAWSQL LINK : https://drawsql.app/teams/mahmudul-hasan-1/diagrams/vehicle-rental-system-erd
 
 
-VIVA LINK :
+VIVA LINK : https://drive.google.com/drive/folders/1-O_uw1_wJc3XM8C9ze252pzHPYTe5K2q
